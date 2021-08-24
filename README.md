@@ -8,3 +8,5 @@ POST : /_api/site/RecycleBin('ID_OF_RECYCLEBIN_ITEM')/restore()
 
 
 https://medium.com/p/33ade783d205/edit
+
+Download the zip file and upload it to your powerautomate library.
